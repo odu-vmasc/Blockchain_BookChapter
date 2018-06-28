@@ -1,0 +1,8 @@
+[36m2018-03-20 15:01:13.521 UTC [msp] GetLocalMSP -> DEBU 001[0m Returning existing local MSP
+[36m2018-03-20 15:01:13.521 UTC [msp] GetDefaultSigningIdentity -> DEBU 002[0m Obtaining default signing identity
+2018-03-20 15:01:13.521 UTC [chaincodeCmd] checkChaincodeCmdParams -> INFO 003[0m Using default escc
+2018-03-20 15:01:13.521 UTC [chaincodeCmd] checkChaincodeCmdParams -> INFO 004[0m Using default vscc
+[36m2018-03-20 15:01:13.522 UTC [msp/identity] Sign -> DEBU 005[0m Sign: plaintext: 0A98070A6E08031A0C08B9C4C4D50510...0A0571756572790A0773657276657234 
+[36m2018-03-20 15:01:13.522 UTC [msp/identity] Sign -> DEBU 006[0m Sign: digest: E72C08D0DA049ED5BC9C48E765F99C95285ED7DDCFF20EB68C050F274193569F 
+Query Result: {"entityID":"server4","entityVal":"server1","message":"helloWorld","intent":"http","port":"80","packet":"256"}
+2018-03-20 15:01:13.531 UTC [main] main -> INFO 007[0m Exiting.....

@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: f3890d31beb5e418da81ff2fc7e0ba78
+timeCreated: 1509644277
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: gun
+    100002: lazer
+    100004: left chain
+    100006: Main body
+    100008: main gun
+    100010: right chai
+    100012: rope
+    100014: smoke
+    100016: //RootNode
+    100018: tools
+    100020: w009
+    100022: w010
+    100024: w011
+    100026: w012
+    100028: w013
+    100030: w014
+    100032: w015
+    100034: w016
+    100036: w1
+    100038: w2
+    100040: w3
+    100042: w4
+    100044: w5
+    100046: w6
+    100048: w7
+    100050: w8
+    400000: gun
+    400002: lazer
+    400004: left chain
+    400006: Main body
+    400008: main gun
+    400010: right chai
+    400012: rope
+    400014: smoke
+    400016: //RootNode
+    400018: tools
+    400020: w009
+    400022: w010
+    400024: w011
+    400026: w012
+    400028: w013
+    400030: w014
+    400032: w015
+    400034: w016
+    400036: w1
+    400038: w2
+    400040: w3
+    400042: w4
+    400044: w5
+    400046: w6
+    400048: w7
+    400050: w8
+    2100000: MI_T72
+    2300000: gun
+    2300002: lazer
+    2300004: left chain
+    2300006: Main body
+    2300008: main gun
+    2300010: right chai
+    2300012: rope
+    2300014: smoke
+    2300016: //RootNode
+    2300018: tools
+    2300020: w009
+    2300022: w010
+    2300024: w011
+    2300026: w012
+    2300028: w013
+    2300030: w014
+    2300032: w015
+    2300034: w016
+    2300036: w1
+    2300038: w2
+    2300040: w3
+    2300042: w4
+    2300044: w5
+    2300046: w6
+    2300048: w7
+    2300050: w8
+    3300000: gun
+    3300002: lazer
+    3300004: left chain
+    3300006: Main body
+    3300008: main gun
+    3300010: right chai
+    3300012: rope
+    3300014: smoke
+    3300016: //RootNode
+    3300018: tools
+    3300020: w009
+    3300022: w010
+    3300024: w011
+    3300026: w012
+    3300028: w013
+    3300030: w014
+    3300032: w015
+    3300034: w016
+    3300036: w1
+    3300038: w2
+    3300040: w3
+    3300042: w4
+    3300044: w5
+    3300046: w6
+    3300048: w7
+    3300050: w8
+    4300000: T-72 M1
+    4300002: main gun
+    4300004: gun
+    4300006: smoke
+    4300008: lazer
+    4300010: Main body
+    4300012: rope
+    4300014: tools
+    4300016: right chai
+    4300018: w009
+    4300020: w010
+    4300022: w011
+    4300024: w012
+    4300026: w013
+    4300028: w014
+    4300030: w015
+    4300032: w016
+    4300034: left chain
+    4300036: w1
+    4300038: w2
+    4300040: w3
+    4300042: w4
+    4300044: w5
+    4300046: w6
+    4300048: w7
+    4300050: w8
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
